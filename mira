@@ -1,0 +1,72 @@
+<section style="font-family:'Pretendard',Arial,sans-serif; max-width:1100px; margin:auto; padding:40px; background:#fff8ef;">
+  <h1 style="text-align:center; color:#5b2e13;">광진 국가유산학교</h1>
+  <p style="text-align:center; font-size:18px;">
+    닫혀 있던 국가유산을 아이들의 배움터로 깨우는 단계형 체험교육
+  </p>
+
+  <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:24px; margin-top:35px;">
+    
+    <div style="background:white; border-radius:20px; padding:25px; box-shadow:0 4px 15px #ddd;">
+      <h2>🏺 1. 보루 발굴 탐험대</h2>
+      <p><b>대상:</b> 유아·초등 저학년</p>
+      <p><b>장소:</b> 아차산 보루·아차산성</p>
+      <p><b>핵심:</b> 고고학자 역할놀이로 고구려 유산 이해</p>
+      <ol>
+        <li>역사동화 듣기</li>
+        <li>모래 발굴 체험</li>
+        <li>유물 스케치</li>
+        <li>복원 퍼즐 맞추기</li>
+        <li>고고학자 인증서 수여</li>
+      </ol>
+    </div>
+
+    <div style="background:white; border-radius:20px; padding:25px; box-shadow:0 4px 15px #ddd;">
+      <h2>🏰 2. 아차산성 수비대</h2>
+      <p><b>대상:</b> 초등 3~6학년</p>
+      <p><b>장소:</b> 아차산성·훈련봉보루</p>
+      <p><b>핵심:</b> 미션형 탐험으로 역사·협동심 학습</p>
+      <ol>
+        <li>작전지도 받기</li>
+        <li>보루 위치 찾기</li>
+        <li>QR 역사퀴즈</li>
+        <li>봉수 신호 체험</li>
+        <li>팀별 방어 전략 발표</li>
+      </ol>
+    </div>
+
+    <div style="background:white; border-radius:20px; padding:25px; box-shadow:0 4px 15px #ddd;">
+      <h2>🚢 3. 한강 무역상단</h2>
+      <p><b>대상:</b> 초등 전학년</p>
+      <p><b>장소:</b> 광진나루·살곶이다리</p>
+      <p><b>핵심:</b> 조선시대 교통·경제를 게임으로 이해</p>
+      <ol>
+        <li>상인증 발급</li>
+        <li>엽전 지급</li>
+        <li>물품 운송 미션</li>
+        <li>시장 거래 놀이</li>
+        <li>무역일지 작성</li>
+      </ol>
+    </div>
+  </div>
+
+  <div style="margin-top:40px; background:#5b2e13; color:white; padding:30px; border-radius:20px;">
+    <h2>📌 더 좋은 추가 프로그램</h2>
+    <ul style="font-size:17px; line-height:1.8;">
+      <li><b>국가유산 그림책 공방</b> : 아이들이 아차산 이야기를 그림책으로 제작</li>
+      <li><b>우리동네 유산 해설사</b> : 초등 고학년이 직접 해설 대본 작성·발표</li>
+      <li><b>AR 보루 시간여행</b> : 스마트폰 QR로 옛 보루 모습을 체험</li>
+      <li><b>가족 국가유산 탐험의 날</b> : 부모와 아이가 함께 미션 수행</li>
+    </ul>
+  </div>
+
+  <div style="margin-top:30px; background:white; padding:25px; border-radius:20px;">
+    <h2>🎯 교육 흐름</h2>
+    <p style="font-size:18px;">
+      <b>탐험</b> → <b>미션 수행</b> → <b>기록</b> → <b>제작</b> → <b>공유 발표</b>
+    </p>
+    <p>
+      단순 체험이 아니라 아이들이 직접 발견하고, 기록하고, 결과물을 만드는 구조라
+      공모사업에서 교육성과와 지속성이 잘 보입니다.
+    </p>
+  </div>
+</section>
